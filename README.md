@@ -37,6 +37,8 @@ A langchain openai based application concept to query local sqlite database.
 
 ### Concept of ChatGPT functions using code (Tool from Langchain)
 
+<img width="791" alt="image" src="https://github.com/rohan1443/langchain-openai-db-query-agent/assets/12879983/faef4401-7fcf-4c6f-8064-833d3aa01c63">
+
 <img width="920" alt="image" src="https://github.com/rohan1443/langchain-openai-db-query-agent/assets/12879983/f6cb41ea-2ac7-4310-8a6c-49016d03edb4">
 
 ### SQLite db details
